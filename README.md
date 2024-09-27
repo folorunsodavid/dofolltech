@@ -1,1 +1,1 @@
-Dofoll Tech conferende site build using React.js
+Dofoll Technologies conference site build using React.js
